@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Users/TheShockMaster/SpaceWars/Assets/EnemySpawnDynamic.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ResLock.cs">
     <Files>
-      <File FileName="../../../Users/TheShockMaster/SpaceWars/Assets/EnemySpawnDynamic.cs" Line="18" Column="5" />
+      <File FileName="Assets\Scripts\exit.cs" Line="7" Column="9" />
+      <File FileName="Assets\Scripts\playerScore.cs" Line="32" Column="34" />
+      <File FileName="Assets\Scripts\ResLock.cs" Line="8" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

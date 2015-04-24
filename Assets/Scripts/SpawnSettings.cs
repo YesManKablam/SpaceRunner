@@ -18,15 +18,15 @@ public class SpawnSettings : MonoBehaviour {
 		spawnPos = Random.Range (1, 4);
 
 		if (difficulty >= 50f) {
-			delay = 1f;
+			delay = .85f;
 		} else if (difficulty >= 35f) {
 			delay = .75f;
 		} 
 		else if(difficulty >= 20f)
 		{
-			delay = .5f;
+			delay = .65f;
 		}else {
-			delay = .3f;
+			delay = .5f;
 		}
 		//beamInstance = (GameObject)Instantiate (BeamBundle_0, transform.position, Quaternion.identity);
 		if (spawnPos == 1) {
